@@ -1,0 +1,18 @@
+{
+  "name": "venvan",
+  "version": "1.0.0",
+  "description": "I Ching Ven Van order hour hexagram calulation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+   "repository": {
+       "type": "git",
+       "url": "http://github.com/sitnin/venvan.git"
+   },
+  "author": "Gregory Sitnin <greg@sitnin.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
